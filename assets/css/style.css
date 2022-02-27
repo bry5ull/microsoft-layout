@@ -1,0 +1,36 @@
+span {
+    display: inline-block;
+}
+
+nav {
+    background-color: lightgrey;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+nav li {
+    display: inline-block;
+    padding-left: 0px;
+    margin: 10px;
+}
+
+#scissors {
+    padding: 10px;
+}
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: lightgrey;
+}
+
+#icons {
+    padding: 5px;
+}
+
+footer {
+    font-style: italic ;
+}
